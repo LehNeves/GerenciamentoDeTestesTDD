@@ -2,7 +2,7 @@
 
 **Descrição:**
 
-Este projeto implementa uma API RESTful para gerenciar testes utilizando Python e FastAPI. A arquitetura limpa foi adotada para promover a modularidade e a testabilidade do código. A API permite criar, ler, atualizar e deletar testes, além de executar testes e gerar relatórios.
+Este projeto implementa uma API RESTFull para gerenciar testes utilizando Python e FastAPI. A arquitetura limpa foi adotada para promover a modularidade e a testabilidade do código. A API permite criar, ler, atualizar e deletar testes, além de executar testes e gerar relatórios.
 
 **Tecnologias:**
 
